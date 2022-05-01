@@ -2,7 +2,7 @@ id: contains-fqdn
 
 info:
   name: fqdn Detect
-  author: Turkcell Offensive Securtiy - Red Team
+  author: mertugur
   severity: info
   tags: tech,fqdn
 
