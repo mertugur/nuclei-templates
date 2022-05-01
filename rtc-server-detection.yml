@@ -1,7 +1,7 @@
 id: rtc-detect
 info:
   name: RTC Detection
-  author: Turkcell Offensive Security - Red Team
+  author: mertugur
   description: Some RTC servers have the version on the response header.
   severity: info
   tags: tech,rct
